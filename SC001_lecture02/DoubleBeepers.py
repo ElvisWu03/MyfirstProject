@@ -2,7 +2,7 @@
 File: DoubleBeepers.py
 Name:ElvisWu
 -------------------------------
-TODO:
+TODO: let the Karel put beepers or pass in the correct way.
 """
 
 from karel.stanfordkarel import *
